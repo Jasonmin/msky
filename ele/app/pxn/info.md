@@ -21,10 +21,10 @@
 
 
 #### <font color=green>纹图Plus</font>
-[纹图Plus - 纹图升级版，支持无损放大，前往查看]({{ site.baseurl }}/ele/app/pxn/plusinfo)
+[纹图Plus - 纹图升级版，支持无损放大，前往查看]({{ '/ele/app/pxn/plusinfo' | relative_url }})
 
 #### 通用安装指南
-[查看]({{ site.baseurl }}/ele/univer/install)
+[查看]({{ '/ele/univer/install' | relative_url }})
 
 #### <font color=green>功能汇聚</font>
 - AI Chat
@@ -43,7 +43,7 @@
 - 其他音视频及图片处理功能...
 
 #### 半智能抠图教程(此教程仅适用-半智能抠图选项)
-[查看]({{ site.baseurl }}/out/tutor/mer/index)
+[查看]({{ '/out/tutor/mer/index' | relative_url }})
 
 #### <font color=green>注意事项</font>
 - 对于removebg抠图项（海量和半智能），尺寸/分辨率较大时可能出现边缘虚化，若虚化导致效果不佳，建议裁剪掉边缘富余区域再抠图，可以提升抠图效果
@@ -53,13 +53,13 @@
 - frPim381k6wS3dvz3LaOp38qCx3VIda2vOn04E0PMDjdM7x81GutQEOG8606cb3c
 
 #### 版本记录
-[查看]({{ site.baseurl }}/ele/app/pxn/version)
+[查看]({{ '/ele/app/pxn/version' | relative_url }})
 
 #### <font color=green>防丢失</font>
 <!-- - 微信号：mtreeah (建议添加，可提供售后及咨询服务) -->
 - 微信号：ahsira 
 - 公众号：生长之树
-<center><img src="{{ site.baseurl }}/assets/qrcode_for.jpg" width="200px"></center>
+<center><img src="{{ '/assets/qrcode_for.jpg' | relative_url }}" width="200px"></center>
 
 #### <font color=green>推广</font>
 
@@ -68,7 +68,7 @@
 
 有意者请添加：ahsira
 
-<img src="{{ site.baseurl }}/assets/ad/liuliang/IMG_7616.PNG" width="300px">
+<img src="{{ '/assets/ad/liuliang/IMG_7616.PNG' | relative_url }}" width="300px">
 
 <!-- <video id="video" controls="" preload="none" poster="" width="600px">
       <source id="mp4" src="../../../assets/ad/dangshan/4.MP4" type="video/mp4"> -->
