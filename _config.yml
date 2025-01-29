@@ -6,6 +6,7 @@ url: "https://jasonmin.github.io"
 # 构建设置
 markdown: kramdown
 theme: minima
+encoding: utf-8
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -19,4 +20,14 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - zzcommit.sh 
+  - zzcommit.sh
+  - README.md
+  - LICENSE
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      encoding: utf-8 

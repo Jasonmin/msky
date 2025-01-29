@@ -1,3 +1,9 @@
+---
+layout: home
+title: Welcome to MSKY
+---
+
+Welcome to MSKY GitHub Pages site!
 
 <b><font color=green size=4>
 生长之树2
