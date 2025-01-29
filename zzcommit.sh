@@ -22,15 +22,3 @@ git pull
 git add .
 git commit -m 'c'
 git push
-
-
-# # 日志
-# # echo $message
-
-# # 提交并推送
-# git add .
-# git commit -m "$message"
-
-# # 拉取
-# # git pull
-# git push
