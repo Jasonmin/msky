@@ -1,0 +1,4 @@
+
+安装指南：https://jasonmin.github.io/newsky/ele/univer/install
+
+使用指南：软件安装完成后，启动软件，点击左下角 [使用指南]（若有），或点击 [更多] 查看

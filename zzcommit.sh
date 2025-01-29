@@ -20,5 +20,5 @@ git pull
 
 # 代码git提交
 git add .
-git commit -m 'c'
+git commit -m "$message"
 git push

@@ -1,0 +1,22 @@
+title: MSKY
+description: My GitHub Pages Site
+baseurl: "/msky"
+url: "https://jasonmin.github.io"
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - zzcommit.sh 
