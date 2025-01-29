@@ -15,7 +15,8 @@ fi
 echo ======github page commit
 
 # bitbucket
-git remote set-url origin https://github.com/Jasonmin/msky.git
+# git remote set-url origin https://github.com/Jasonmin/msky.git
+git remote set-url origin git@github.com:Jasonmin/msky.git
 git pull
 
 # 代码git提交
