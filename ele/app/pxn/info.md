@@ -1,3 +1,8 @@
+---
+layout: default
+title: 纹图
+permalink: /ele/app/pxn/info
+---
 
 <b><font color=green size=4>
 纹图 -  后期重点维护
