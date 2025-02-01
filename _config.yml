@@ -5,7 +5,8 @@ url: "https://jasonmin.github.io"
 
 # 构建设置
 markdown: kramdown
-theme: minima
+# theme: minima
+# theme: jekyll-theme-minimal
 encoding: utf-8
 plugins:
   - jekyll-feed
