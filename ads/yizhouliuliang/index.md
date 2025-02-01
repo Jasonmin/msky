@@ -1,4 +1,7 @@
-
+---
+layout: clean
+title: 
+---
 
 ### <font color=green>推广</font>
 
@@ -16,7 +19,7 @@
 
 ### <font color=green>定价</font>
 - 原价：99元
-- 个人抢购价：49元
+- 原抢购价：49元
 - 现优惠价：7元
 
 ### <font color=green>联系方式</font>
