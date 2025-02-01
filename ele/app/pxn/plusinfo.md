@@ -1,3 +1,7 @@
+---
+layout: clean
+title: 
+---
 
 <b><font color=green size=4>
 纹图Plus

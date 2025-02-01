@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: clean
 title: 
-permalink: /ele/app/tinypng/info
 ---
 
 <b><font color=green size=4>

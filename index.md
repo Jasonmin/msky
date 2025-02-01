@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: clean
 title: 
 ---
 
 
 <b><font color=green size=4>
-生长之树2
+生长之树
 </font></b>
 
 - [纹图 - 最新主推](#纹图---最新主推)

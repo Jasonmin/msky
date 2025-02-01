@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 
-permalink: /ele/app/pxn/info
 ---
 
 <b><font color=green size=4>

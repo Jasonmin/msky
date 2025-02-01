@@ -1,4 +1,7 @@
-
+---
+layout: clean
+title: 
+---
 
 <b><font size=4>
 通用安装指南
