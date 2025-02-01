@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 高质压图 - TinyPNG
+title: 
 permalink: /ele/app/tinypng/info
 ---
 

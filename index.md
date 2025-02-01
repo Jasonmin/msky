@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to MSKY
+title: 
 ---
 
 

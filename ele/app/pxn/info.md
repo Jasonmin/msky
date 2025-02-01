@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 纹图
+title: 
 permalink: /ele/app/pxn/info
 ---
 
@@ -17,7 +17,6 @@ permalink: /ele/app/pxn/info
 - [试用激活码，可用数量2](#试用激活码可用数量2)
 - [版本记录](#版本记录)
 - [防丢失](#防丢失)
-- [推广](#推广)
 
 
 #### <font color=green>软件下载地址（纹图 - 大小 < 100M）</font>
@@ -66,14 +65,14 @@ permalink: /ele/app/pxn/info
 - 公众号：生长之树
 <center><img src="{{ '/assets/qrcode_for.jpg' | relative_url }}" width="200px"></center>
 
-#### <font color=green>推广</font>
+<!-- #### <font color=green>推广</font>
 
 一人公司-流量打法内部课 （低价提供）
 包含：2+1纯享内部课+流量工具+资料库
 
 有意者请添加：ahsira
 
-<img src="{{ '/assets/ad/liuliang/IMG_7616.PNG' | relative_url }}" width="300px">
+<img src="{{ '/assets/ad/liuliang/IMG_7616.PNG' | relative_url }}" width="300px"> -->
 
 <!-- <video id="video" controls="" preload="none" poster="" width="600px">
       <source id="mp4" src="../../../assets/ad/dangshan/4.MP4" type="video/mp4"> -->

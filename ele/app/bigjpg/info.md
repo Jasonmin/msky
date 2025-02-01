@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 图扩 - 类Bigjpg无损放大
+title: 
 permalink: /ele/app/bigjpg/info
 ---
 
