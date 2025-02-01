@@ -1,3 +1,8 @@
+---
+layout: default
+title: 高质压图 - TinyPNG
+permalink: /ele/app/tinypng/info
+---
 
 <b><font color=green size=4>
 高质压图 - TinyPNG

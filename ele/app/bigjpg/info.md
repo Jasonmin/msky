@@ -1,3 +1,8 @@
+---
+layout: default
+title: 图扩 - 类Bigjpg无损放大
+permalink: /ele/app/bigjpg/info
+---
 
 <b><font color=green size=4>
 图扩 - 类Bigjpg无损放大
