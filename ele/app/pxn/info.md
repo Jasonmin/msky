@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: clean
 title: 
 ---
 
@@ -46,7 +46,7 @@ title:
 - 其他音视频及图片处理功能...
 
 #### 半智能抠图教程(此教程仅适用-半智能抠图选项)
-[查看]({{ '/out/tutor/mer/index' | relative_url }})
+[查看]({{ '/ele/tutor/mer/index' | relative_url }})
 
 #### <font color=green>注意事项</font>
 - 对于removebg抠图项（海量和半智能），尺寸/分辨率较大时可能出现边缘虚化，若虚化导致效果不佳，建议裁剪掉边缘富余区域再抠图，可以提升抠图效果
