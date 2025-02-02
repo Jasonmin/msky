@@ -8,7 +8,7 @@ title:
 </font></b>
 
 - [软件下载地址](#软件下载地址)
-- [\[通用安装指南\]({{ '/ele/app/univer/install' | relative\_url }})](#通用安装指南-eleappuniverinstall--relative_url-)
+- [通用安装指南](#通用安装指南)
 - [试用激活码](#试用激活码)
 - [选项说明](#选项说明)
 - [版本记录](#版本记录)
@@ -20,7 +20,8 @@ title:
 - 蓝奏云（访问网页直接下载，勿转存）
 [https://wwp.lanzouw.com/b02pgxy5g](https://wwp.lanzouw.com/b02pgxy5g)  密码:dkq3
 
-#### [通用安装指南]({{ '/ele/app/univer/install' | relative_url }})
+#### 通用安装指南
+[查看]({{ '/ele/univer/install' | relative_url }})
 <!-- #### [初次使用指南](./tutor.md) -->
 #### <font color=green>试用激活码</font>
 > 可用100张，激活当天有效

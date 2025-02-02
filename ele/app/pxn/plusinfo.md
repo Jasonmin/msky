@@ -8,8 +8,8 @@ title:
 </font></b>
 
 - [软件下载地址（纹图Plus - 大小 \< 130M）](#软件下载地址纹图plus---大小--130m)
-- [\[通用安装指南\]({{ '/ele/app/univer/install' | relative\_url }})](#通用安装指南-eleappuniverinstall--relative_url-)
-- [\[半智能抠图教程\]({{ '/ele/out/tutor/mer/index' | relative\_url }})](#半智能抠图教程-eleouttutormerindex--relative_url-)
+- [\[通用安装指南\]({{ '/ele/univer/install' | relative\_url }})](#通用安装指南-eleuniverinstall--relative_url-)
+- [\[半智能抠图教程\]({{ '/ele/tutor/mer/index' | relative\_url }})](#半智能抠图教程-eletutormerindex--relative_url-)
 - [功能列举](#功能列举)
 - [使用说明](#使用说明)
 - [试用激活码，可用数量2](#试用激活码可用数量2)
@@ -21,9 +21,9 @@ title:
 - 微云（可网页直接下载）
 - [https://share.weiyun.com/7o250oRO](https://share.weiyun.com/7o250oRO)
 
-#### [通用安装指南]({{ '/ele/app/univer/install' | relative_url }}) 
+#### [通用安装指南]({{ '/ele/univer/install' | relative_url }}) 
 <!-- (../../univer/install.md) -->
-#### [半智能抠图教程]({{ '/ele/out/tutor/mer/index' | relative_url }})
+#### [半智能抠图教程]({{ '/ele/tutor/mer/index' | relative_url }})
 
 #### <font color=green>功能列举</font>
 - 汇聚以下优质功能，使用时可自由选择
