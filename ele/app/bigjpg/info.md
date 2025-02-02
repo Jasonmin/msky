@@ -8,7 +8,7 @@ title:
 </font></b>
 
 - [软件下载地址](#软件下载地址)
-- [通用安装指南](#通用安装指南)
+- [\[通用安装指南\]({{ '/ele/app/univer/install' | relative\_url }})](#通用安装指南-eleappuniverinstall--relative_url-)
 - [初次使用指南](#初次使用指南)
 - [试用激活码](#试用激活码)
 - [选项说明](#选项说明)
@@ -29,7 +29,7 @@ title:
 - 百度云盘
 [https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg](https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg)  密码: 0hl3
 
-#### [通用安装指南](../../univer/install.md)
+#### [通用安装指南]({{ '/ele/app/univer/install' | relative_url }})
 #### [初次使用指南](./tutor.md)
 #### <font color=green>试用激活码</font>
 > 目前大约有1/10的Windows系统电脑会处理失败(一般为显卡不兼容导致)，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用5张，激活当天有效
